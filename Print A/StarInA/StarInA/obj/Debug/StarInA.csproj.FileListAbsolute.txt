@@ -1,0 +1,6 @@
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\bin\Debug\StarInA.exe.config
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\bin\Debug\StarInA.exe
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\bin\Debug\StarInA.pdb
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\obj\Debug\StarInA.csproj.CoreCompileInputs.cache
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\obj\Debug\StarInA.exe
+C:\Users\Kushal Neupane\source\repos\StarInA\StarInA\obj\Debug\StarInA.pdb
